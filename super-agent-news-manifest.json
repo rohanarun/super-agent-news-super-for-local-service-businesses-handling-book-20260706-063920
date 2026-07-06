@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "Blockchain Council",
+      "title": "MCP vs RAG vs Skills: AI Agent Architecture",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGbHYxUE9Zbmd5WVNGTUJabVZNMnJxVzhYeTZvcVRxNWNNcm5yQWtjSzQ0S0YzZjRtLW5qNUl5Mmc4LWdBeW1EMkxvQzRqekFlYVY0OFJpVHhwaHZCZTlhN0VBa0lIQ3BibXJSdHlkeFc4R2h3"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash(title+kind+audience+generated_at) -> workflow-command-center selected. AIDA Check: Hero=Attention, Proof+Bento=Interest, Media+Guide=Desire, CTA Band=Action. Font Selection: Cabinet Grotesk (primary). Hero Math Verification: H1 clamp(44px\u201372px), max-width 1100px -> 2\u20133 lines confirmed. Bento Density Verification: grid-auto-flow: dense present in .bento and .compare-grid. GSAP Motion Selection: image-scale-fade-scroll + hover-physics. Label Sweep & Button Check: Primary black pill CTA to app.getsupers.com, secondary white CTA contrast verified.",
+  "generated_at": "2026-07-06T06:39:27.693331+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion\u2011focused field guide and landing page for local service operators who need an AI agent that actually runs booking software, sends quotes, and replies to customers \u2014 with durable computer\u2011use workflows powered by a reusable computer\u2011use cache."
+}
